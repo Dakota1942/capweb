@@ -1,0 +1,125 @@
+#title {
+    height: 350px;
+    width: 1200px;
+    padding-left: 6%;
+    padding-top: 3%;
+}
+
+#t {
+    padding: 2%;
+}
+
+#t h1 {
+    color: rgb(1, 1, 71);
+    font-size: 16mm;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-right: 5px solid rgb(1, 1, 71);
+    width: 450px;
+    height: 250px;
+    padding-right: 2%;
+    padding-top: 1%;
+}
+
+#t p {
+    color: rgb(1, 1, 71);
+    font-size: 5mm;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    width: 700px;
+    height: 250px;
+    padding-left: 2%;
+    padding-top: 1.5%;
+}
+
+#logo-box {
+    position: absolute;
+    right: 1%;
+}
+
+.info1 {
+    padding: 3%;
+}
+
+.info1 h1 {
+    text-align: center;
+    border-bottom: 5px solid rgb(1, 1, 71);
+    padding-bottom: 2%;
+}
+
+.info1 p {
+    color: rgb(1, 1, 71);
+    font-size: 5mm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info2 {
+    padding: 3%;
+}
+
+.info2 h1 {
+    text-align: center;
+    border-bottom: 5px solid rgb(1, 1, 71);
+    padding-bottom: 2%;
+}
+
+.info2 p {
+    color: rgb(1, 1, 71);
+    font-size: 5mm;
+    font-weight: 500;
+}
+
+.info3 {
+    padding: 3%;
+}
+
+.info3 h1 {
+    text-align: center;
+    border-bottom: 5px solid rgb(1, 1, 71);
+    padding-bottom: 2%;
+}
+
+.info3 p {
+    color: rgb(1, 1, 71);
+    font-size: 5mm;
+    width: 650px;
+}
+
+.info4 {
+    padding: 3%;
+}
+
+.info4 h1 {
+    text-align: left;
+    font-size: xx-large;
+    color: rgb(1, 1, 71);
+    border-bottom: 5px solid rgb(1, 1, 71);
+    padding-bottom: 2%;
+}
+
+.info4 li {
+    font-size: large;
+}
+
+.info1 a:hover {
+    color: rgb(1, 1, 71);
+}
+
+.info2 a:hover {
+    color: rgb(1, 1, 71);
+}
+
+.info3 a:hover {
+    color: rgb(1, 1, 71);
+}
+
+.info4 a {
+    font-family: Arial, Helvetica, sans-serif;
+    size: 8mm;
+    color: red;
+    text-decoration: none;
+}
+
+.info4 a:hover {
+    color: darkred;
+}
