@@ -3,7 +3,7 @@
     height: 350px;
     width: 1200px;
     padding-left: 4.5%;
-    padding-top: 3%;
+    padding-top: 1%;
 }
 
 #t {
@@ -50,12 +50,37 @@
     padding-bottom: 2%;
 }
 
+#weakpass1 {
+    color: rgb(1, 1, 71);
+    font-size: 8mm;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+#weakpass2 {
+    color: rgb(1, 1, 71);
+    font-size: 8mm;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30%;
+    padding-top: 5%;
+}
+
 /* sets the links to a certain color when hovered over */
 .info1 a:hover, .info2 a:hover, .info3 a:hover {
     color: rgb(1, 1, 71);
 }
 
-.info1 p, .info2 p {
+.info1 p {
+    color: rgb(1, 1, 71);
+    font-size: 4.7mm;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info2 p {
     color: rgb(1, 1, 71);
     font-size: 5mm;
     font-weight: 500;
